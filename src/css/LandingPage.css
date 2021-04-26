@@ -1,0 +1,12 @@
+.landingPageContent {
+    width: 100%;
+    height: 80vh;
+    background-color: #f0f2f5;
+}
+.contentHeader {
+    color: #1877f2;
+    font-weight: 500;
+    font-size: 80px;
+    margin: 28% 0 0 0;
+    padding: 0;
+} 

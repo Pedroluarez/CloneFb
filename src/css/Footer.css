@@ -1,0 +1,22 @@
+.footerText {
+    font-size: 14px;
+    margin: 0 0 0 0;
+}
+.textTranslate {
+    color: #1877f2;
+}
+.divisionFooter {
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+.footerBtn {
+    margin: 0 0 0 1%; 
+}
+.footerSubText {
+    font-size: 14px;
+    color: #1877f2;
+}
+.footerContentText {
+    font-size: 14px; 
+}
